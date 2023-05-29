@@ -1,0 +1,93 @@
+﻿<Window x:Class="WPF_Автосалон.BuyerForm"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPF_Автосалон"
+        mc:Ignorable="d"
+        Title="Покупатели" Height="650" Width="800"
+        WindowStartupLocation="CenterScreen">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+
+        <!-- Форма для создания/редактирования записи -->
+        <Border Grid.Row="0" Margin="5" BorderBrush="Silver" BorderThickness="1" Padding="5">
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="Auto"/>
+                    <ColumnDefinition/>
+                </Grid.ColumnDefinitions>
+
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                </Grid.RowDefinitions>
+
+                <TextBlock Grid.Row="0" Grid.ColumnSpan="2" Text="Покупатель" FontSize="20" FontWeight="Bold"/>
+
+                <Label Grid.Row="1" Content="Фамилия:"/>
+                <TextBox Grid.Row="1" Grid.Column="1" Name="surname"/>
+
+                <Label Grid.Row="2" Content="Имя:"/>
+                <TextBox Grid.Row="2" Grid.Column="1" Name="name" />
+
+                <Label Grid.Row="3" Content="Отчество:"/>
+                <TextBox Grid.Row="3" Grid.Column="1" Name="patronymic"/>
+
+                <Label Grid.Row="4" Content="Номер телефона:"/>
+                <TextBox Grid.Row="4" Grid.Column="1" Name="Phone"/>
+
+                <Label Grid.Row="5" Content="Дата рождения:"/>
+                <DatePicker Grid.Row="5" Grid.Column="1" Name="Birthday"/>
+
+                <Label Grid.Row="6" Content="Адрес:"/>
+                <TextBox Grid.Row="6" Grid.Column="1" Name="Address"/>
+
+                <Label Grid.Row="7" Content="Дата регистрации:"/>
+                <DatePicker Grid.Row="7" Grid.Column="1" x:Name="DateReg"/>
+
+                <Label Grid.Row="8" Content="Пол:"/>
+                <ComboBox Grid.Row="8" Grid.Column="1" Name="Gender"/>
+
+                <StackPanel Grid.Row="9" Grid.ColumnSpan="2" Orientation="Horizontal" HorizontalAlignment="Right" Margin="0 10 0 0">
+                    <Button Content="Добавить" Width="150" Margin="5" Padding="5,2" Click="Button_Click"/>
+                    <Button Content="Удалить" Width="150" Margin="5" Padding="5,2"  Click="Button_Click_2"/>
+                    <Button Content="Сохранить" Width="150" Margin="5" Padding="5,2" Click="Save_Click"/>
+                </StackPanel>
+            </Grid>
+        </Border>
+
+        <!-- Таблица со списком покупателей -->
+        <DataGrid Grid.Row="1" Margin="5" AutoGenerateColumns="False"  Name="dataGrid">
+
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="ID" Binding="{Binding ID}" IsReadOnly="True"/>
+                <DataGridTextColumn Header="Фамилия" Binding="{Binding Surname}" IsReadOnly="{Binding IsReadOnly}"/>
+                <DataGridTextColumn Header="Имя" Binding="{Binding Name}" IsReadOnly="{Binding IsReadOnly}"/>
+                <DataGridTextColumn Header="Отчество" Binding="{Binding Patronymic}" IsReadOnly="{Binding IsReadOnly}"/>
+                <DataGridTextColumn Header="Номер телефона" Binding="{Binding PhoneNumber}" IsReadOnly="{Binding IsReadOnly}"/>
+                <DataGridTextColumn Header="Дата рождения" Binding="{Binding DateOfBirth, StringFormat={}{0:dd.MM.yyyy}}" IsReadOnly="{Binding IsReadOnly}"/>
+                <DataGridTextColumn Header="Адрес" Binding="{Binding Address}" IsReadOnly="{Binding IsReadOnly}"/>
+                <DataGridTextColumn Header="Способ приобретения" Binding="{Binding Acquisition}" IsReadOnly="{Binding IsReadOnly}"/>
+                <DataGridComboBoxColumn Header="Пол" Width="100" />
+            </DataGrid.Columns>
+        </DataGrid>
+        <StackPanel Grid.Row="2" Orientation="Horizontal" HorizontalAlignment="Right" Margin="5">
+            <Button Content="Загрузить" Margin="5" Padding="5,2" Command="{Binding EditCommand}" CommandParameter="{Binding SelectedBuyer}" Click="Button_Click_1"/>
+        </StackPanel>
+
+    </Grid>
+</Window>

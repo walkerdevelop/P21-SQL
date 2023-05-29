@@ -1,0 +1,18 @@
+﻿<Window x:Class="WPF_Автосалон.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPF_Автосалон"
+        mc:Ignorable="d"
+        Title="МойАвтосалон" Height="240" Width="240" WindowStartupLocation="CenterScreen">
+    <Grid>
+        <StackPanel>
+            <Button Content="Таблица Покупатели" Click="ButtonBuyer_Click" Margin="10"/>
+            <Button Content="Таблица Работники" Click="ButtonWorkers_Click" Margin="10"/>
+            <Button Content="Таблица Покупки" Click="ButtonPurchase_Click" Margin="10"/>
+            <Button Content="Таблица Автомобили" Click="ButtonGoods_Click" Margin="10"/>
+            <Button Content="Отчет по продажам" Click="Button_Click"  Margin="10"/>
+        </StackPanel>
+    </Grid>
+</Window>

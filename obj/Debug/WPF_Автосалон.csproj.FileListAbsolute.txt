@@ -1,0 +1,104 @@
+C:\Users\walkerdev\source\repos\PERFECT\WPF_Автосалон\obj\Debug\WPF_Автосалон.csproj.AssemblyReference.cache
+C:\Users\walkerdev\source\repos\PERFECT\WPF_Автосалон\obj\Debug\WPF_Автосалон.csproj.SuggestedBindingRedirects.cache
+C:\Users\walkerdev\source\repos\PERFECT\WPF_Автосалон\obj\Debug\BuyerForm.g.cs
+C:\Users\walkerdev\source\repos\PERFECT\WPF_Автосалон\obj\Debug\MainWindow.g.cs
+C:\Users\walkerdev\source\repos\PERFECT\WPF_Автосалон\obj\Debug\App.g.cs
+C:\Users\walkerdev\source\repos\PERFECT\WPF_Автосалон\obj\Debug\WPF_Автосалон_MarkupCompile.cache
+C:\Users\walkerdev\source\repos\PERFECT\WPF_Автосалон\obj\Debug\WPF_Автосалон_MarkupCompile.lref
+C:\Users\walkerdev\source\repos\PERFECT\WPF_Автосалон\bin\Debug\WPF_Автосалон.exe.config
+C:\Users\walkerdev\source\repos\PERFECT\WPF_Автосалон\bin\Debug\WPF_Автосалон.exe
+C:\Users\walkerdev\source\repos\PERFECT\WPF_Автосалон\bin\Debug\WPF_Автосалон.pdb
+C:\Users\walkerdev\source\repos\PERFECT\WPF_Автосалон\bin\Debug\EntityFramework.dll
+C:\Users\walkerdev\source\repos\PERFECT\WPF_Автосалон\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\walkerdev\source\repos\PERFECT\WPF_Автосалон\bin\Debug\EntityFramework.xml
+C:\Users\walkerdev\source\repos\PERFECT\WPF_Автосалон\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\walkerdev\source\repos\PERFECT\WPF_Автосалон\obj\Debug\BuyerForm.baml
+C:\Users\walkerdev\source\repos\PERFECT\WPF_Автосалон\obj\Debug\MainWindow.baml
+C:\Users\walkerdev\source\repos\PERFECT\WPF_Автосалон\obj\Debug\WPF_Автосалон.g.resources
+C:\Users\walkerdev\source\repos\PERFECT\WPF_Автосалон\obj\Debug\WPF_Автосалон.Properties.Resources.resources
+C:\Users\walkerdev\source\repos\PERFECT\WPF_Автосалон\obj\Debug\WPF_Автосалон.csproj.GenerateResource.cache
+C:\Users\walkerdev\source\repos\PERFECT\WPF_Автосалон\obj\Debug\WPF_Автосалон.csproj.CoreCompileInputs.cache
+C:\Users\walkerdev\source\repos\PERFECT\WPF_Автосалон\obj\Debug\WPF_Автосалон.csproj.CopyComplete
+C:\Users\walkerdev\source\repos\PERFECT\WPF_Автосалон\obj\Debug\WPF_Автосалон.exe
+C:\Users\walkerdev\source\repos\PERFECT\WPF_Автосалон\obj\Debug\WPF_Автосалон.pdb
+C:\Users\walkerdev\source\repos\PERFECT\WPF_Автосалон\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\walkerdev\source\repos\PERFECT\WPF_Автосалон\obj\Debug\SellerForm.g.cs
+C:\Users\walkerdev\source\repos\PERFECT\WPF_Автосалон\obj\Debug\SellerForm.baml
+C:\Users\walkerdev\source\repos\PERFECT\WPF_Автосалон\obj\Debug\CarsForm.g.cs
+C:\Users\walkerdev\source\repos\PERFECT\WPF_Автосалон\obj\Debug\CarsForm.baml
+C:\Users\walkerdev\source\repos\PERFECT\WPF_Автосалон\obj\Debug\SellForm.g.cs
+C:\Users\walkerdev\source\repos\PERFECT\WPF_Автосалон\obj\Debug\SellForm.baml
+D:\Заказы 2022 - 2023\Курсовые 2 курс\Tar\WPF_Автосалон\obj\Debug\WPF_Автосалон.csproj.AssemblyReference.cache
+D:\Заказы 2022 - 2023\Курсовые 2 курс\Tar\WPF_Автосалон\obj\Debug\WPF_Автосалон.csproj.SuggestedBindingRedirects.cache
+D:\Заказы 2022 - 2023\Курсовые 2 курс\Tar\WPF_Автосалон\obj\Debug\BuyerForm.g.cs
+D:\Заказы 2022 - 2023\Курсовые 2 курс\Tar\WPF_Автосалон\obj\Debug\CarsForm.g.cs
+D:\Заказы 2022 - 2023\Курсовые 2 курс\Tar\WPF_Автосалон\obj\Debug\MainWindow.g.cs
+D:\Заказы 2022 - 2023\Курсовые 2 курс\Tar\WPF_Автосалон\obj\Debug\ReportForm.g.cs
+D:\Заказы 2022 - 2023\Курсовые 2 курс\Tar\WPF_Автосалон\obj\Debug\SellerForm.g.cs
+D:\Заказы 2022 - 2023\Курсовые 2 курс\Tar\WPF_Автосалон\obj\Debug\SellForm.g.cs
+D:\Заказы 2022 - 2023\Курсовые 2 курс\Tar\WPF_Автосалон\obj\Debug\App.g.cs
+D:\Заказы 2022 - 2023\Курсовые 2 курс\Tar\WPF_Автосалон\obj\Debug\WPF_Автосалон_MarkupCompile.cache
+D:\Заказы 2022 - 2023\Курсовые 2 курс\Tar\WPF_Автосалон\obj\Debug\WPF_Автосалон_MarkupCompile.lref
+D:\Заказы 2022 - 2023\Курсовые 2 курс\Tar\WPF_Автосалон\obj\Debug\WPF_Автосалон.exe
+D:\Заказы 2022 - 2023\Курсовые 2 курс\Tar\WPF_Автосалон\obj\Debug\WPF_Автосалон.pdb
+D:\Заказы 2022 - 2023\Курсовые 2 курс\Tar\WPF_Автосалон\bin\Debug\WPF_Автосалон.exe.config
+D:\Заказы 2022 - 2023\Курсовые 2 курс\Tar\WPF_Автосалон\bin\Debug\WPF_Автосалон.exe
+D:\Заказы 2022 - 2023\Курсовые 2 курс\Tar\WPF_Автосалон\bin\Debug\WPF_Автосалон.pdb
+D:\Заказы 2022 - 2023\Курсовые 2 курс\Tar\WPF_Автосалон\bin\Debug\EntityFramework.dll
+D:\Заказы 2022 - 2023\Курсовые 2 курс\Tar\WPF_Автосалон\bin\Debug\EntityFramework.SqlServer.dll
+D:\Заказы 2022 - 2023\Курсовые 2 курс\Tar\WPF_Автосалон\bin\Debug\EntityFramework.xml
+D:\Заказы 2022 - 2023\Курсовые 2 курс\Tar\WPF_Автосалон\bin\Debug\EntityFramework.SqlServer.xml
+D:\Заказы 2022 - 2023\Курсовые 2 курс\Tar\WPF_Автосалон\obj\Debug\BuyerForm.baml
+D:\Заказы 2022 - 2023\Курсовые 2 курс\Tar\WPF_Автосалон\obj\Debug\CarsForm.baml
+D:\Заказы 2022 - 2023\Курсовые 2 курс\Tar\WPF_Автосалон\obj\Debug\MainWindow.baml
+D:\Заказы 2022 - 2023\Курсовые 2 курс\Tar\WPF_Автосалон\obj\Debug\ReportForm.baml
+D:\Заказы 2022 - 2023\Курсовые 2 курс\Tar\WPF_Автосалон\obj\Debug\SellerForm.baml
+D:\Заказы 2022 - 2023\Курсовые 2 курс\Tar\WPF_Автосалон\obj\Debug\SellForm.baml
+D:\Заказы 2022 - 2023\Курсовые 2 курс\Tar\WPF_Автосалон\obj\Debug\WPF_Автосалон.g.resources
+D:\Заказы 2022 - 2023\Курсовые 2 курс\Tar\WPF_Автосалон\obj\Debug\WPF_Автосалон.Properties.Resources.resources
+D:\Заказы 2022 - 2023\Курсовые 2 курс\Tar\WPF_Автосалон\obj\Debug\WPF_Автосалон.csproj.GenerateResource.cache
+D:\Заказы 2022 - 2023\Курсовые 2 курс\Tar\WPF_Автосалон\obj\Debug\WPF_Автосалон.csproj.CoreCompileInputs.cache
+D:\Заказы 2022 - 2023\Курсовые 2 курс\Tar\WPF_Автосалон\obj\Debug\WPF_Автосалон.csproj.CopyComplete
+D:\Заказы 2022 - 2023\Курсовые 2 курс\Tar\WPF_Автосалон\bin\Debug\LiveCharts.dll
+D:\Заказы 2022 - 2023\Курсовые 2 курс\Tar\WPF_Автосалон\bin\Debug\LiveCharts.Wpf.dll
+D:\Заказы 2022 - 2023\Курсовые 2 курс\Tar\WPF_Автосалон\bin\Debug\LiveCharts.pdb
+D:\Заказы 2022 - 2023\Курсовые 2 курс\Tar\WPF_Автосалон\bin\Debug\LiveCharts.xml
+D:\Заказы 2022 - 2023\Курсовые 2 курс\Tar\WPF_Автосалон\bin\Debug\LiveCharts.Wpf.pdb
+D:\Заказы 2022 - 2023\Курсовые 2 курс\Tar\WPF_Автосалон\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\KAB6-7\Desktop\WPF_Автосалон\bin\Debug\WPF_Автосалон.exe.config
+C:\Users\KAB6-7\Desktop\WPF_Автосалон\bin\Debug\WPF_Автосалон.exe
+C:\Users\KAB6-7\Desktop\WPF_Автосалон\bin\Debug\WPF_Автосалон.pdb
+C:\Users\KAB6-7\Desktop\WPF_Автосалон\bin\Debug\EntityFramework.dll
+C:\Users\KAB6-7\Desktop\WPF_Автосалон\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\KAB6-7\Desktop\WPF_Автосалон\bin\Debug\LiveCharts.dll
+C:\Users\KAB6-7\Desktop\WPF_Автосалон\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\KAB6-7\Desktop\WPF_Автосалон\bin\Debug\EntityFramework.xml
+C:\Users\KAB6-7\Desktop\WPF_Автосалон\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\KAB6-7\Desktop\WPF_Автосалон\bin\Debug\LiveCharts.pdb
+C:\Users\KAB6-7\Desktop\WPF_Автосалон\bin\Debug\LiveCharts.xml
+C:\Users\KAB6-7\Desktop\WPF_Автосалон\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\KAB6-7\Desktop\WPF_Автосалон\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\KAB6-7\Desktop\WPF_Автосалон\obj\Debug\WPF_Автосалон.csproj.AssemblyReference.cache
+C:\Users\KAB6-7\Desktop\WPF_Автосалон\obj\Debug\WPF_Автосалон.csproj.SuggestedBindingRedirects.cache
+C:\Users\KAB6-7\Desktop\WPF_Автосалон\obj\Debug\BuyerForm.g.cs
+C:\Users\KAB6-7\Desktop\WPF_Автосалон\obj\Debug\CarsForm.g.cs
+C:\Users\KAB6-7\Desktop\WPF_Автосалон\obj\Debug\MainWindow.g.cs
+C:\Users\KAB6-7\Desktop\WPF_Автосалон\obj\Debug\ReportForm.g.cs
+C:\Users\KAB6-7\Desktop\WPF_Автосалон\obj\Debug\SellerForm.g.cs
+C:\Users\KAB6-7\Desktop\WPF_Автосалон\obj\Debug\SellForm.g.cs
+C:\Users\KAB6-7\Desktop\WPF_Автосалон\obj\Debug\App.g.cs
+C:\Users\KAB6-7\Desktop\WPF_Автосалон\obj\Debug\WPF_Автосалон_MarkupCompile.cache
+C:\Users\KAB6-7\Desktop\WPF_Автосалон\obj\Debug\WPF_Автосалон_MarkupCompile.lref
+C:\Users\KAB6-7\Desktop\WPF_Автосалон\obj\Debug\BuyerForm.baml
+C:\Users\KAB6-7\Desktop\WPF_Автосалон\obj\Debug\CarsForm.baml
+C:\Users\KAB6-7\Desktop\WPF_Автосалон\obj\Debug\MainWindow.baml
+C:\Users\KAB6-7\Desktop\WPF_Автосалон\obj\Debug\ReportForm.baml
+C:\Users\KAB6-7\Desktop\WPF_Автосалон\obj\Debug\SellerForm.baml
+C:\Users\KAB6-7\Desktop\WPF_Автосалон\obj\Debug\SellForm.baml
+C:\Users\KAB6-7\Desktop\WPF_Автосалон\obj\Debug\WPF_Автосалон.g.resources
+C:\Users\KAB6-7\Desktop\WPF_Автосалон\obj\Debug\WPF_Автосалон.Properties.Resources.resources
+C:\Users\KAB6-7\Desktop\WPF_Автосалон\obj\Debug\WPF_Автосалон.csproj.GenerateResource.cache
+C:\Users\KAB6-7\Desktop\WPF_Автосалон\obj\Debug\WPF_Автосалон.csproj.CoreCompileInputs.cache
+C:\Users\KAB6-7\Desktop\WPF_Автосалон\obj\Debug\WPF_Автосалон.csproj.CopyComplete
+C:\Users\KAB6-7\Desktop\WPF_Автосалон\obj\Debug\WPF_Автосалон.exe
+C:\Users\KAB6-7\Desktop\WPF_Автосалон\obj\Debug\WPF_Автосалон.pdb
